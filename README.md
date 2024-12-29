@@ -1,0 +1,3 @@
+# Unhandled Exception Crashing Node.js Server
+
+This repository demonstrates a common error in Node.js applications: unhandled exceptions crashing the server.  The `bug.js` file shows a server that crashes due to an unhandled exception.  The `bugSolution.js` file demonstrates how to properly handle exceptions to prevent this crash.  This is crucial for building robust and reliable Node.js applications.
